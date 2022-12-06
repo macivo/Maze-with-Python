@@ -1,0 +1,22 @@
+Evaluation of Maze Project
+==========================
+
+Execution (2 pts): No problem
+(2 pts)
+
+Comments (2 pts): comments, make use of python comments """ and describe the parameters and return value
+(1 pts)
+
+Structure (3 pts): well structured and clear
+(3 pts)
+
+Requirements (15 pts): fulfills all the requirements
+(15 pts)
+
+Subjective evaluation (3 pts): depends on the how well is structured / documented / written  (max 3 percents)
+                               these 3 pts are given to the project that are really good.
+(0 pts)
+
+
+Total (max 25 pts) : 21
+
