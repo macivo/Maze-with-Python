@@ -1,4 +1,8 @@
-**Python (BTI7541a) 20**
+# ![BFH_LOGO](https://github.com/macivo/BFH-Hyperdrive/blob/35d68406f71fcd667e71a2cdd6147c66c41b4a40/git_public/BFH_LOGO.svg) Bern University of Applied Sciences
+#### Python (BTI7541a) 20
+#### Student: Mac Müller
+#### Advisor: Prof. Dr. Olivier Biberstein
+
 
 This project addresses the problem of finding a path in a maze from a point 'A' to a point 'B'.For this project a maze is contained in a text file as illustrated below. The '*' represent the walls of the maze. The four diection 'N' (north), 'S' (south), 'W' (west), and 'E' (east) are the four directions to represent a path from the initial point 'A' to the final point 'B'.
 
